@@ -87,12 +87,12 @@ Input, textarea : 14px/1.6 '', Arial, sans-serif;
   src: url('../fonts/notosans/NotoSans-Regular.ttf');
 }
 
-
+/*
 .row{
    width: 930px;
    margin: auto;
 }
-
+*/
 .imgStyle{
   width: 20vw;
   height: 50vh;
